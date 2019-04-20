@@ -1,0 +1,16 @@
+#pageContainer {
+    width: 900px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+h1, h3 {
+    width: 400px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+img {
+    margin: 10px;
+    width: 200px;
+}
